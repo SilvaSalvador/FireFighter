@@ -1,5 +1,6 @@
 
 # Firefight - A Turn-Based Firefighting Game
+![image](https://github.com/user-attachments/assets/0af3e0a7-c803-4688-aa65-ba64674da961)
 
 ## Overview
 Firefight is a turn-based strategy game built with Java and JavaFX for GUI. The game leverages object-oriented programming principles to create a dynamic and engaging firefighting simulation. Players assume the role of a firefighter tasked with extinguishing fires, managing resources, and utilizing vehicles to prevent the spread of fires across various terrains.
